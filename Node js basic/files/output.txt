@@ -1,0 +1,2 @@
+Data read from input .txt:now iam learning node js.
+Date created Mon Mar 25 2024 04:30:38 GMT-0700 (Pacific Daylight Time)
